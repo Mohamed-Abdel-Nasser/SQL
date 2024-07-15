@@ -4,6 +4,8 @@ Name   : BikeStores
 For Educational Purpose 
 --------------------------------------------------------------------
 */
+
+
 CREATE DATABASE BikeStores;
 USE BikeStores;
 GO
